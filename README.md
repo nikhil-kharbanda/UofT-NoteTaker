@@ -4,7 +4,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br />
 
 ## Description
-    This application can be used to write and save notes. It can also delete notes if need be
+This application can be used to write and save notes. It can also delete notes if need be
 
 ## Table of Contents
   - [Description](#description)
@@ -16,22 +16,31 @@
   - [Video Link](#video)  
 
 ## Installation
-    This project uses NPM i, express, and uuid
+This project uses NPM i, express, and uuid
 
 ## Purpose
-    Purpose of this project is to have a better understading in using express, making applications run on the web. Also, getting comfortable in using Heroku, where this project is posted
+Purpose of this project is to have a better understading in using express, making applications run on the web. Also, getting comfortable in using Heroku, where this project is posted
 
 ## Run
-  Go into projects directory, and enter npm start in terminal. Or, can access project via link on Heroku: https://uoft-notetaker.herokuapp.com/
+Go into projects directory, and enter npm start in terminal. Or, can access project via link on Heroku: https://uoft-notetaker.herokuapp.com/
 
 ## Contributing
-  N/A
+N/A
 
 ## Video
-  N/A
+N/A
 
 ## About the developer 
   nikhil-kharbanda <br >
   nikhil_kharbanda@hotmail.com
 
-  
+## Images
+
+[Web app img 1](./Assets/imgs/Web_img1.PNG)
+Welcome page
+
+[Web app img 2](./Assets/imgs/Web_img2.PNG)
+Sample notes added
+
+[Web app img 3](./Assets/imgs/Web_img3.PNG)
+Sample note deleted
